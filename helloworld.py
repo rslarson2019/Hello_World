@@ -1,9 +1,7 @@
-
-
+#New Program 
 
 name = "Riley"
 age = 24
-
 
 print("Hello world!")
 print()
