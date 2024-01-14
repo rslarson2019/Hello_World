@@ -1,6 +1,5 @@
 # Overview
 
-
 This is a common starter programming area.
 
 I created this software to show my basic knowledge in python
